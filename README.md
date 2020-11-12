@@ -1,6 +1,6 @@
 ### Hello!
 - I'm `Zach`.
-- I'm a `Software Engineer` living and working in `Helsinki, Finland`.
+- I'm a `Software Engineer` living in `Helsinki, Finland`, working at a `Cyber Security and Privacy` company.
 - I enjoy working with `C++ and Lua`.
 - I spend the majority of my hobby coding time working on _[Project Topaz](https://github.com/project-topaz/topaz)_, a `Final Fantasy XI Server Emulator`.
 - My other programming interests are: `Low-Level Emulation (LLE)`, `Audio Effects and DSP `, `C++ Performance`, and `C++ Tooling`.
